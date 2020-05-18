@@ -17,7 +17,7 @@ for filename in os.listdir(s):
     for name in os.listdir(path):
         if(regexMp3.search(name)):
             shutil.copy(os.path.join(path,name),cwd)
-            os.rename(os.path.join(cwd,name),os.path.join(cwd,songName))
+            os.rename(os.path.join(cwd,name),os.path.join(cwd,songName,".mp3"))
             break
             
 print("Done")
