@@ -15,7 +15,10 @@ eg.
 /run/media/cirakg/Disk/igre/drive_c/osu/Songs/  
 D:\osu!\Songs 
 6)Press Enter and wait  
-6)It will print out Done when finished!  
+6)It will print out Done when finished!
+
+
+If you need to close it before finish press ctrl+c  
 
 
 Guide to change directory in windows(similar in linux) 
