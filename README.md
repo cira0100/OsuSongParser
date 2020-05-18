@@ -15,11 +15,15 @@ eg.
 /run/media/cirakg/Disk/igre/drive_c/osu/Songs/
 D:\osu!\Songs
 6)Press Enter and wait
-
+6)It will print out Done when finished!
 
 
 # Pictures of using OsuSongParser.py
 
 ![Folder](https://i.imgur.com/uuofb1A.png)
+![Terminal](https://i.imgur.com/JJcEKNP.png)
+![InProgress](https://i.imgur.com/6lsPh64.png)
+
+
 
 
