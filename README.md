@@ -20,9 +20,9 @@ D:\osu!\Songs
 
 # Pictures of using OsuSongParser.py
 
-![Folder](https://i.imgur.com/uuofb1A.png)
-![Terminal](https://i.imgur.com/JJcEKNP.png)
-![InProgress](https://i.imgur.com/6lsPh64.png)
+![Folder](https://i.imgur.com/uuofb1A.png)  
+![Terminal](https://i.imgur.com/JJcEKNP.png)  
+![InProgress](https://i.imgur.com/6lsPh64.png)  
 
 
 
